@@ -15,7 +15,7 @@ Education
 * MA Economics, Manonmaniam Sundaranar University, Tirunelveli, India, 2013 - 2017
 * BTech Information Technology, Anna University, Chennai, India, 2002 - 2006
 
-Work experience
+Work Experience
 ======
 * From Nov 2016: Vice President
   * Investment Banking COO - Global Markets and Research Technology
