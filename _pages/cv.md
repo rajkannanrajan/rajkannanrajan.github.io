@@ -18,20 +18,17 @@ Education
 Work Experience
 ======
 * From Nov 2016: Vice President
-  * Investment Banking COO - Global Markets and Research Technology
-  * Barclays, Chennai, India
+  * Investment Banking COO - Global Markets and Research Technology (Barclays)
 
 * April 2013 to October 2016: Manager
-  * Global Client and Trading Technology
-  * Societe Generale, Bengaluru, India
+  * Global Client and Trading Technology (Société Générale)
 
 * April 2007 to April 2013: Senior Analyst
-  * Global Banking and Markets Technology
-  * Bank of America Merrill Lynch, Chennai, India
+  * Global Banking and Markets Technology (Bank of America Merrill Lynch)
  
-* December 2005 to March 2007: Engineering Intern/Consulting Trainee Associate
-  * National Aerospace Labs, Bengaluru, India (Flosolver Parallel Computing Centre; Weather Forecasting Research
-  * School of Mechanical Sciences; Office of Dean for Research - Data Visualization for High Precision Welding Techniques 
+* December 2005 to March 2007: Engineering Intern/Trainee Associate
+  * National Aerospace Labs (Flosolver Parallel Computing Centre - Weather Forecasting Research)
+  * School of Mechanical Sciences; Office of Dean for Research (Data Visualization for High Precision Welding Techniques) 
   
 Skills
 ======
