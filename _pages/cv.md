@@ -11,35 +11,34 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MSc Data Science, Kalasalingam Academy of Education and Research, Virudhunagar, India, 2023 - 2025 (expected)
+* MA Economics, Manonmaniam Sundaranar University, Tirunelveli, India, 2013 - 2017
+* BTech Information Technology, Anna University, Chennai, India, 2002 - 2006
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* From Nov 2016: Vice President
+  * Investment Banking COO - Global Markets and Research Technology
+  * Barclays, Chennai, India
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* April 2013 to October 2016: Manager
+  * Global Client and Trading Technology
+  * Societe Generale, Bengaluru, India
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* April 2007 to April 2013: Senior Analyst
+  * Global Banking and Markets Technology
+  * Bank of America Merrill Lynch, Chennai, India
+ 
+* December 2005 to March 2007: Engineering Intern/Consulting Trainee Associate
+  * National Aerospace Labs, Bengaluru, India (Flosolver Parallel Computing Centre; Weather Forecasting Research
+  * School of Mechanical Sciences; Office of Dean for Research - Data Visualization for High Precision Welding Techniques 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Artificial Intelligence: Autogen, CrewAI, Microsoft Azure AI
+* Data Science: Python,kdb+/q,SQL - MS SQL, PostgreSQL
+* Cloud: AWS - EC2, S3, Glue, Athena, Azure AI 
+* Financial 3rd Party Products/Data Vendors: Fidessa, Asset Control, Goldensource; Bloomberg, LSEG Refinitiv, IHS Markit, FOW, IDC, Moodys, S&P, Fitch
 
 Publications
 ======
