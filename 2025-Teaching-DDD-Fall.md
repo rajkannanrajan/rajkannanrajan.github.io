@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/ddd-cse-ug-fall-2025
 venue: "Computer Science and Engineering"
-date: 2025-15-05
+date: 2025-05-15
 location: "Chennai, India"
 ---
 
