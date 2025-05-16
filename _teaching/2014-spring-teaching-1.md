@@ -1,15 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Domain Driven Design"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Undergraduate Course"
+permalink: /teaching/2025-Fall
+venue: "Computer Science and Engineering"
+date: 2025-15-05
+location: "Chennai, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
+Proposed UG CSE Course (1 Credit - 8 hours lecture; 7 hours self learning)
 Heading 1
 ======
 
