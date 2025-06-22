@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : ""
 title_separator          : "-"
 name                     : &name "Rajkannan Rajan"
-description              : &description "AI and Data Product Management; Corporate and Invesstment Banking; Capital Markets and Sustainable Finance"
+description              : &description "Corporate and Investment Banking - AI and Data Product Management; Responsible AI, ESG, Sustainable Finance, Corporate Governance"
 url                      : https://rajkannanrajan.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -25,9 +25,9 @@ author:
   avatar           : "rr-photo.jpeg"
   name             : "Rajkannan Rajan"
   pronouns         : # example: "she/her"  
-  bio              : "AI and Data Product Management; Corporate and Investment Banking; Capital Markets and Sustainable Finance"
+  bio              : "Corporate and Investment Banking - AI and Data Product Management; Responsible AI, ESG, Sustainable Finance, Corporate Governance"
   location         : #"Earth"
-  employer         : #"Red Brick University"
+  employer         : "Barclays"
   uri              : # URL
   email            : #"none@example.org" 
 
