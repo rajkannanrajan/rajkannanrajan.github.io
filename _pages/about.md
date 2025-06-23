@@ -13,6 +13,5 @@ He holds degrees in Information Technology and Economics, and is currently pursu
 
 As a speaker and academic collaborator, Rajkannan contributes to critical discussions on the future of AI and Data Governance, Digital Transformation, the Responsible Use of AI, and emerging trends in ESG and Sustainability from a corporate governance perspective.
 
-Disclaimer
-======
-All views/opinions are personal, nothing to do with my past or present employer(s).
+Disclaimer:
+The views, thoughts, and opinions expressed on this platform and in its content are solely my own and do not represent those of my current or former employer(s), their clients, partners, or any organizations with which I am professionally affiliated. This content is for informational purposes only and should not be construed as official statements, endorsements, or professional advice. I assume no liability for the accuracy, completeness, or usefulness of any information presented.
