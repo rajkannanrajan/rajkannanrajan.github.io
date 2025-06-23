@@ -19,10 +19,12 @@ Work Experience
   * Office of Dean - Research/Mechanical Sciences (Data Visualization for High Precision Welding Techniques) 
   * Office of Placement and Industrial Training, Mahendra Institutions (Strategic Campus Hiring Initiative)
  
-Affialiations
+Affiliations
 ======
 * Member, Institute of Directors (IOD) India, New Delhi
 * Member, Madras Management Association - MMA, Chennai
+
+Note: Strictly on personal capacity, nothing to do my current or past employer(s).
 
 Education
 ======
