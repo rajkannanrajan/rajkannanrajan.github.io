@@ -9,13 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* BTech Information Technology, Anna University, Chennai, India, 2002 - 2006
-* MA Economics, Manonmaniam Sundaranar University, Tirunelveli, India, 2013 - 2017
-* MBA Finance, University of Mysore, India, 2023 - 2025 (expected)
-* MSc Data Science, Kalasalingam Academy of Education and Research, Virudhunagar, India, 2023 - 2025 (expected)
-
 Work Experience
 ======
 * From Nov 2016: Vice President, Barclays (Investment Banking COO - Global Markets and Research)
@@ -25,6 +18,18 @@ Work Experience
   * National Aerospace Labs (Flosolver Parallel Computing Centre - Weather Forecasting Research)
   * Office of Dean - Research/Mechanical Sciences (Data Visualization for High Precision Welding Techniques) 
   * Office of Placement and Industrial Training, Mahendra Institutions (Strategic Campus Hiring Initiative)
+ 
+Affialiations
+======
+* Member, Institute of Directors (IOD) India, New Delhi
+* Member, Madras Management Association - MMA, Chennai
+
+Education
+======
+* BTech Information Technology, Anna University, Chennai, India, 2002 - 2006
+* MA Economics, Manonmaniam Sundaranar University, Tirunelveli, India, 2013 - 2017
+* MBA Finance, University of Mysore, India, 2023 - 2025 (expected)
+* MSc Data Science, Kalasalingam Academy of Education and Research, Virudhunagar, India, 2023 - 2025 (expected)
 
 Skills
 ======
