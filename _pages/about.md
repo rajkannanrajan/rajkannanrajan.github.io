@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Data Science, Artificial Intelligence - Agentic AI, Risk, Ethics; Capital Markets, Sustainable Finance
-
+Corporate and Investment Banking - AI and Data Product Management; Responsible AI, ESG, Sustainable Finance, Corporate Governance.
 
 Disclaimer
 ======
