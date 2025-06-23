@@ -28,10 +28,10 @@ Note: Strictly on personal capacity, nothing to do my current or past employer(s
 
 Education
 ======
-* BTech Information Technology, Anna University, Chennai, India, 2002 - 2006
-* MA Economics, Manonmaniam Sundaranar University, Tirunelveli, India, 2013 - 2017
-* MBA Finance, University of Mysore, India, 2023 - 2025 (expected)
-* MSc Data Science, Kalasalingam Academy of Education and Research, Virudhunagar, India, 2023 - 2025 (expected)
+* BTech Information Technology: Anna University, Chennai, India, 2002 - 2006
+* MA Economics: Manonmaniam Sundaranar University, Tirunelveli, India, 2013 - 2017
+* MBA Finance: University of Mysore, India, 2023 - 2025 (expected)
+* MSc Data Science: Kalasalingam Academy of Education and Research, Virudhunagar, India, 2023 - 2025 (expected)
 
 Skills
 ======
