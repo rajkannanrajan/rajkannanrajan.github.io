@@ -31,6 +31,8 @@ author:
   uri              : # URL
   email            : #"none@example.org" 
 
+  linkedin         : rajkannanrajan
+
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=l40jQ5IAAAAJ"
@@ -59,7 +61,6 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : rajkannanrajan
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
