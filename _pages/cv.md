@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Rajkannan Rajan is a senior banking and financial services technology leader with over 18 years of experience across premier global investment banks, including Bank of America Merrill Lynch, Société Générale, and Barclays. He specializes in Strategy Execution, Program Management, and the Delivery of Enterprise AI and Data Products for Capital Markets, Regulatory Compliance, ESG, and Sustainable Finance.
+
+As a speaker and academic collaborator, Rajkannan contributes to critical discussions on the future of AI and Data Governance, Digital Transformation, the Responsible Use of AI, and emerging trends in ESG and Sustainability from a corporate governance perspective.
+
 Work Experience
 ======
 * From Nov 2016: Vice President, Barclays (Investment Banking COO - Global Markets and Research)
@@ -18,13 +22,6 @@ Work Experience
   * National Aerospace Labs (Flosolver Parallel Computing Centre - Weather Forecasting Research)
   * Office of Dean - Research/Mechanical Sciences (Data Visualization for High Precision Welding Techniques) 
   * Office of Placement and Industrial Training, Mahendra Institutions (Strategic Campus Hiring Initiative)
- 
-Affiliations
-======
-* Member, Institute of Directors (IOD) India, New Delhi
-* Member, Madras Management Association - MMA, Chennai
-
-Note: Strictly on personal capacity, nothing to do my current or past employer(s).
 
 Education
 ======
@@ -39,6 +36,13 @@ Skills
 * SQL/Programming: Python,kdb+/q,SQL - MS SQL, PostgreSQL
 * Cloud: Amazon AWS (EC2, S3, Glue, Athena, Grafana, Open Search, Lamda, Cloud Watch), Azure AI 
 * Financial 3rd Party Products/Data Vendors: Fidessa, Asset Control, Goldensource; Bloomberg, LSEG Refinitiv, IHS Markit, FOW, IDC, Moodys, S&P, Fitch
+
+Affiliations
+======
+* Member, Institute of Directors (IOD) India, New Delhi
+* Member, Madras Management Association - MMA, Chennai
+
+Note: Strictly on personal capacity, nothing to do my current or past employer(s).
 
 Publications
 ======
@@ -57,7 +61,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
