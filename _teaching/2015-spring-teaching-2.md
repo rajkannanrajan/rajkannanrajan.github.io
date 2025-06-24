@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Member, Board of Studies, Department of Information Technology, Mahendra Engineering College"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Academic Advisor"
+permalink: /teaching/2021-2023-BoardofStudies-IT-MahendraEnggCollege
+venue: "Department of Information Technology, Mahendra Engineering College"
+date: 2022-04-19
+location: "Tiruchengode, Namakkal, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I have been invited twice to be part of Board of Studies as Alumni, also asked to provide inputs on evolving trends in IT and review the Curriculum for B.Tech Information Technology Programme between 2021-2023, two academic years.
