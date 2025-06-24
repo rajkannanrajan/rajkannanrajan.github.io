@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+#{% include base_path %}
 
 Rajkannan Rajan is a senior banking and financial services technology leader with over 18 years of experience across premier global investment banks, including Bank of America Merrill Lynch, Société Générale, and Barclays. He specializes in Strategy Execution, Program Management, and the Delivery of Enterprise AI and Data Products for Capital Markets, Regulatory Compliance, ESG, and Sustainable Finance.
 
