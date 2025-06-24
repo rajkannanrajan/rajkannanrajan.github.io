@@ -3,7 +3,7 @@ title: "Domain Driven Design"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/ddd-cse-ug-fall-2025
-venue: "Computer Science and Engineering"
+venue: "Deparment of Computer Science and Engineering, SSN College of Engineering"
 date: 2025-05-15
 location: "Chennai, India"
 ---
