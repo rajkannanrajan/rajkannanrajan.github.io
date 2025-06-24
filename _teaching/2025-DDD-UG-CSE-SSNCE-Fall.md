@@ -8,13 +8,12 @@ date: 2025-05-15
 location: "Chennai, India"
 ---
 
-Introduction to Domain Driven Design: Proposal Only, Yet to be finalized
-======
+Course Title: Introduction to Domain Driven Design
+Course Code: TBD
 
 /!\ NOTE: Proposed UG CSE Course (1 Credit - 8 hours lecture; 7 hours self learning)
 
-Course Title: Introduction to Domain Driven Design
-Course Code: TBD
+Proposal Only, Yet to be finalized
 
 Lecture (L): 8 hours
 Self-Learning (SL): 7 hours
