@@ -24,15 +24,13 @@ author:
   # Biographic information
   avatar           : "rr-photo.jpeg"
   name             : "Rajkannan Rajan"
-  pronouns         : # example: "she/her"  
   bio              : "Corporate and Investment Banking - AI and Data Product Management; Responsible AI, ESG, Sustainable Finance, Corporate Governance"
-  location         : #"Earth"
   employer         : #"Barclays"
   uri              : # URL
-  email            : #"none@example.org" 
+  email            : "rajkannan.rajan@gmail.com" 
 
-  linkedin         : "https://www.linkedin.com/in/rajkannanrajan"
-  github           : "https://github.com/rajkannanrajan"
+  linkedin         : "rajkannanrajan"
+  github           : "rajkannanrajan"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=l40jQ5IAAAAJ"
   orcid            : "https://orcid.org/0009-0002-6928-1720"
   researchgate     : "https://www.researchgate.net/profile/Rajkannan-Rajan"
