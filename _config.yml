@@ -31,9 +31,9 @@ author:
 
   linkedin         : "rajkannanrajan"
   github           : "rajkannanrajan"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=l40jQ5IAAAAJ"
-  orcid            : "https://orcid.org/0009-0002-6928-1720"
-  researchgate     : "https://www.researchgate.net/profile/Rajkannan-Rajan"
+  #googlescholar    : "https://scholar.google.com/citations?hl=en&user=l40jQ5IAAAAJ"
+  #orcid            : "https://orcid.org/0009-0002-6928-1720"
+ # researchgate     : "https://www.researchgate.net/profile/Rajkannan-Rajan"
   
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
