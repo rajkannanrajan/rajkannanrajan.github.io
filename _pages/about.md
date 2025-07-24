@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Rajkannan Rajan brings over 19 years of banking and financial services technology leadership across global investment banks including Bank of America Merrill Lynch, Société Générale, and Barclays. He has focused on business analysis, strategy execution, program management, and delivering enterprise data products for capital markets, regulatory compliance, and sustainable finance. His experience includes building highly competent teams and empowered centers of excellence within Global Capability Centers (GCCs).
+Rajkannan Rajan brings over 19 years of banking and financial services technology leadership across global investment banks including Bank of America Merrill Lynch, Société Générale, and Barclays. He has focused on strategy execution, program management, and delivering enterprise data products for capital markets, regulatory compliance, and sustainable finance. His experience includes building highly competent teams and empowered centers of excellence within Global Capability Centers (GCCs).
 
 
 
