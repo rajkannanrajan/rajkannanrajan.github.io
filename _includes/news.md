@@ -1,16 +1,6 @@
-<h2>News</h2>
-
-<ul class="dated-list news-list">
-<li><strong>Sep 2026</strong> Our paper on <a href="./publications/">topic A</a> is accepted to <a href="https://example.org/">Conference X 2026</a>.</li>
-<li><strong>Jun 2026</strong> I gave an invited talk at the <a href="https://example.org/">Example Workshop</a>.</li>
-<li><strong>May 2026</strong> Honored to receive the <a href="https://example.org/">Example Research Award</a>.</li>
-<li><strong>Jan 2026</strong> I will serve as an Area Chair for <a href="https://example.org/">Conference Y 2026</a>.</li>
-
-<li class="news-toggle"> <a href="#" onclick="toggleVis(this); return false;">Show more</a> </li>
-<div id="newsmore">
-<li><strong>Oct 2025</strong> Our paper on <a href="./publications/">topic B</a> is accepted to <a href="https://example.org/">Journal Z</a>.</li>
-<li><strong>Aug 2025</strong> I joined <a href="https://www.example.edu/">Your University</a> as an Assistant Professor.</li>
-<li><strong>May 2025</strong> I defended my Ph.D. thesis.</li>
-</div>
-
-</ul>
+- **[Oct. 2026]** Developing doctoral research frameworks and maturity models on *Corporate Board Oversight of Artificial Intelligence and Algorithmic Risk Governance*.
+- **[Sep. 2026]** Completed M.Sc. in Data Science from Kalasalingam Academy of Research and Education.
+- **[Sep. 2026]** Delivered institutional seminar blueprint on *Responsible AI Principles, Governance, and Intellectual Property Awareness Across International Jurisdictions*.
+- **[Aug. 2026]** Designed postgraduate lecture modules and curriculum structures on Financial Markets and Macroeconomics.
+- **[Oct. 2025]** Published single-authored review paper on SEBI's BRSR framework (2021–2025) in *IRJAEM*.
+- **[Aug. 2025]** Appointed as Industry Expert on the Board of Studies (Department of CSE) at SSN College of Engineering, Chennai.

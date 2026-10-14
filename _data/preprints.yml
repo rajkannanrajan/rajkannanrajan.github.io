@@ -1,0 +1,11 @@
+# Preprints are listed above the publications on /publications/.
+# Leave "main:" empty (or delete the entries) to hide the section.
+main:
+
+  - title: "Preprint Title: Work in Progress"
+    authors: First Author, <strong>Your Name</strong>
+    conference_short: Preprint
+    year: 2026
+    pdf: https://arxiv.org/abs/0000.00000
+    code: https://github.com/username/preprint
+    image: ../assets/img/pub-placeholder.svg
