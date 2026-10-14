@@ -1,12 +1,6 @@
 ---
 layout: default
-title: Publications & Working Papers
+title: Publications
 ---
 
-## Preprints & Working Papers
-
-{% include publications.html data=site.data.preprints %}
-
-## Published Papers
-
-{% include publications.html data=site.data.publications %}
+{% include_relative _includes/publications.md %}
