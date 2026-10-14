@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    {% include head.html prefix="../" page_title=page.title %}
+  </head>
+  <body>
+
+    {% include topnav.html prefix="../" %}
+
+    <div class="wrapper">
+      <section class="simple-page" style="float: none; width: auto;">
+
+      {{ content }}
+
+      <br>
+
+      {% include page-end.html %}
+
+      <br>
+
+      </section>
+      {% include footer.html %}
+    </div>
+    <script src="../assets/js/scale.fix.js"></script>
+  </body>
+</html>
