@@ -1,12 +1,13 @@
-- title: Home
-  url: ./
-- title: Publications
-  url: ./publications.html
-- title: Teaching
-  url: ./teaching.html
-- title: Talks
-  url: ./talks.html
-- title: Service
-  url: ./service.html
-- title: Biography
-  url: ./biography.html
+main:
+  - title: Home
+    url: ./
+  - title: Publications
+    url: ./publications.html
+  - title: Teaching
+    url: ./teaching.html
+  - title: Talks
+    url: ./talks.html
+  - title: Service
+    url: ./service.html
+  - title: Biography
+    url: ./biography.html
