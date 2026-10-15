@@ -9,5 +9,5 @@ main:
     url: ./talks.html
   - title: Service
     url: ./service.html
-  - title: Biography
+  - title: Bio
     url: ./biography.html
