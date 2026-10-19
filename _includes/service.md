@@ -1,4 +1,4 @@
-- **Industry Member, Board of Studies:** Department of Computer Science and Engineering, SSN College of Engineering, Chennai, Tamil Nadu (2025–2026).
-- **Alumni Member, Board of Studies:** Department of Information Technology, Mahendra Engineering College, Namakkal, Tamil Nadu (2021–2022).
+- **Industry Member, Board of Studies:** Department of Computer Science and Engineering, [SSN College of Engineering](https://www.ssn.edu.in/computer-science-and-engineering-department), Chennai, Tamil Nadu (2025–2026).
+- **Alumni Member, Board of Studies:** Department of Information Technology, [Mahendra Engineering College](https://mahendra.info/programs/information-technology), Namakkal, Tamil Nadu (2021–2022).
 - **Co-Chair, Campus Relationships & Academic Engagement:** Institutional university outreach and academic-industry partnerships at a global investment banking GCC.
 - **Site Co-Lead, Early Careers Program:** Graduate analyst mentorship, technical onboarding, and leadership development.
