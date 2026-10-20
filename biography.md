@@ -3,10 +3,12 @@ layout: default
 title: Biography
 ---
 
-## Short Bio
+## Bio
 
-His research investigates how corporate boards govern emerging algorithmic technologies, focusing on director technological literacy, Model Risk Management (MRM), Responsible AI governance across international jurisdictions, and Environmental, Social, and Governance (ESG) disclosures under SEBI's BRSR framework.
+Financial services technology leader with two decades of experience across global investment banks, including Bank of America Merrill Lynch, Société Générale, and Barclays. Proven expertise in driving enterprise-scale transformations across capital markets, regulatory compliance, sustainable finance, enterprise data architecture, and AI adoption. Recognized for building high-performing teams, establishing Centers of Excellence within Global Capability Centers (GCCs), and aligning strategic vision with disciplined execution.
 
-## Education
-- **MSc in Data Science**, Kalasalingam Academy of Research and Education, Virudhunagar, IN 2023 – 2026
-- **BTech in Information Technology**, Anna University, Chennai, IN 2002 – 2006
+Equally committed to developing future talent through Early Careers initiatives, supporting interns and graduates from campus recruitment through successful integration into the workplace and long-term career growth.
+
+Academic background includes a B.Tech in Information Technology, and M.Sc. in Data Science. Member of the Madras Management Association (MMA) and the Institute of Directors (IoD), India. Former Member, Board of Studies for Computer Science & Engineering and Information Technology programs at leading engineering institutions in Tamil Nadu, contributing to stronger industry-academia collaboration.
+
+His independent research interests covers Corporate Governance, Corporate Sustainability, Responsible AI; currently working on developing novel theory/framework on how corporate boards should govern emerging algorithmic technologies.
