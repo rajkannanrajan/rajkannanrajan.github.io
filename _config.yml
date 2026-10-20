@@ -1,14 +1,13 @@
 # Basic Information
 title: Rajkannan Rajan
 position: Independent Researcher
-affiliation: Corporate Governance Research Initiative, Chennai, India
+affiliation: New Economy Research Initiative, Chennai, India
 affiliation_link: https://rajkannanrajan.github.io/
 
-email: rajkannan [dot] rajan [at] gmail [dot] com # Replace with your actual email
+email: rajkannanrajan@gmail.com # Replace with your actual email
 
 # Social & Academic Links (Rendered in the Hero profile section)
 google_scholar: https://scholar.google.com/citations?hl=en&user=l40jQ5IAAAAJ
-cv_link: ./assets/files/Rajkannan_Rajan_CV.pdf
 github_link: https://github.com/rajkannanrajan
 linkedin: https://www.linkedin.com/in/rajkannanrajan/
 orcid: https://orcid.org/0009-0002-6928-1720
@@ -16,7 +15,7 @@ twitter: https://twitter.com/rajkannanrajan
 researchgate: https://www.researchgate.net/profile/Rajkannan-Rajan
 
 # Avatar & Branding
-avatar: ./assets/img/avatar.jpg
+avatar: ./assets/img/rr.jpg
 favicon: ./assets/favicon/favicon.ico
 
 # Publication Archiving (Groups papers at or before this year under one heading)
